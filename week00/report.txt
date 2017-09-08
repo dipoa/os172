@@ -1,0 +1,3 @@
+- membuat repository os172 di github
+- isi formulir untuk mendata github account
+- login ke badak.cs.ui.ac.id
