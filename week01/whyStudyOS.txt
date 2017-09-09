@@ -1,1 +1,10 @@
 #dipoa
+
+Kuliah Operating System akan mencakup: 
+general overview, computer architecture review, operating system overview,software licenses, GNU/Linux CLI, versioning, scripting, C language overview, protection, security, gnupg, processes and threads, addressing and pointers, memory management, virtual memory, synchronization,mutual exclusion, deadlock, CPU scheduling algorithms, file systems 
+
+Mengapa kita harus belajar Operating System:
+- untuk mengetahui struktur dasar dari sistem komputer
+- untuk mengetahui komponen-komponen penting dari sistem operasi
+- memberikan gambaran umum tentang tipe-tipe computing environments
+- untuk mengetahui beberapa sistem operasi open source
