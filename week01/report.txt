@@ -1,0 +1,6 @@
+- Clone repository dari git
+- membuat file di git local dari putty
+- mengetahui perintah-perintah dasar dari git
+- menggunakan text editor dari Putty untuk membuat file
+- push and pull repository dari local repository ke github repository dan sebaliknya
+- introduction to scripting
