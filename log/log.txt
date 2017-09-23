@@ -21,3 +21,8 @@ w02-170914-20-LR-Review materi C, From: Scele
 w02-170914-20-DS-Diskusi dengan teman mengenai lab week02
 w02-170915-17-PS-Mengerjakan tugas lab week02
 w02-170916-05-PS-Menyelesaikan tugas lab week02
+
+w03-170919-16-LR-About: linux stratup, From: Dosen
+w03-170919-17-PS-Mengerjakan kuis di kelas
+w03-170919-20-PS-Mengerjakan tugas lab week03
+w03-170922-23-PS-Mengerjakan tugas lab week03
