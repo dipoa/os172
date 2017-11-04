@@ -1,0 +1,7 @@
+w04-170926-16-LR-About: I/O, From: Dosen
+w04-170928-12-PS-Mengerjakan tugas lab week04
+w04-170928-16-LR-About: I/O, From: Dosen
+w04-170929-00-PS-Mengerjakan tugas lab week04
+w04-170928-23-PS-Mengerjakan tugas lab week04
+w04-170930-08-LR-About: I/O, from: http://csapp.cs.cmu.edu/2e/ch10-preview.pdf
+w04-170930-08-PS-Mengerjakan tugas lab week04
