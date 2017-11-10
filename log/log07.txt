@@ -1,0 +1,9 @@
+w07-171107-16-LR-About: Locking and Mutex, From: Dosen
+w07-171107-17-LR-About: Locking and Semaphore, From: Dosen
+w07-171107-21-Mengerjakan tugas lab week07
+w07-171107-22-LR-About: Locking and Mutex untuk mengerjakan lab week07, From: scele, youtube, etc
+w07-171107-22-DS-Diskusi dengan teman mengenai lab week07
+w07-171109-21-PS-Mengerjakan tugas lab week07
+w07-171109-21-PS-Mengerjakan tugas lab week07
+w07-171111-03-PS-Mengerjakan tugas lab week05
+w07-171111-03-PS-Menyelesaikan tugas lab week05
